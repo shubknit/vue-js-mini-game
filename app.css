@@ -1,0 +1,23 @@
+.pane-img {
+  background: url('img/bag.png') center no-repeat;
+  margin: 0 auto;
+  width: 200px;
+  height: 539px;
+}
+.burst {
+  background: url('img/bag-burst.png') center no-repeat;
+
+}
+.control{
+  width: 300px;
+  margin: 0 auto;
+  border: 2px solid black;
+}
+.control div{
+  background: red;
+  height: 20px;
+}
+.buttons {
+  width: 300px;
+  margin: 20px auto;
+}
